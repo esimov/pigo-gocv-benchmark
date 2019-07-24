@@ -1,5 +1,6 @@
 # pigo-gocv-benchmark
-Pigo vs GoCV face detection benchmark comparison
+
+Benchmark results comparing Pigo vs GoCV face detection capabilites.
 
 ## Results
 ```bash
